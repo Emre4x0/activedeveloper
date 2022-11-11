@@ -11,7 +11,7 @@ Bu, Aktif Geliştirici Rozetidir ve en az 1 aktif bir uygulamaya sahip olan herh
 
 [Buraya](https://discord.com/developers/active-developer) tıklayarak gerekli kısma hızlıca gidebilirsin.
 
-Herhangi bir aktif geliştirici, rozetinizi almak için Geliştirici Portalı'na gidebilir. Orada, Aktif Geliştirici Programına katılmanız ve rozetinizi talep etmeniz için bir istem bulmalısınız.
+Herhangi bir aktif geliştirici, rozetini almak için Geliştirici Portalı'na gidebilir. Orada, Aktif Geliştirici Programına katılmanız ve rozetinizi talep etmeniz için bir bildirim karşınıza çıkacaktır.
 
 <img src="https://support-dev.discord.com/hc/article_attachments/10113095319447">
 
