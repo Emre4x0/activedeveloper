@@ -33,7 +33,9 @@ Göremiyorsanız, istemcinizi yeniden başlatmayı/yenilemeyi deneyin.
 Bota eğik çizgi komutları yüklendikten 24 saat sonra yukarıda yazan aşamaları uygulayarak rozetinizi alabilirsiniz.
 
 ### Küresel Eğik Çizgi Komut Kurulumu
+<img src=https://cdn.discordapp.com/attachments/903320769906495499/1040597629115043913/Ekran_Resmi_2022-11-11_15.03.19.png>
 - Aşağıda bulunan kodu ana dosyanıza aktararak botunuza "Eğik Çizgi" komutlarını destekler rozetini alabilirsiniz.
+
 ```js
 client.api.applications(client.user.id).commands.post({data: {
     name: 'ping',
