@@ -25,6 +25,13 @@ Bu adımlar tamamlandığında, Profilinizde yeni Aktif Geliştirici Rozetinizi 
 
 Göremiyorsanız, istemcinizi yeniden başlatmayı/yenilemeyi deneyin.
 
+## Bir Takıma katılarak rozeti alabilir miyim?
+Şartları karşılayan bir takıma katılarak rozeti alabilirsiniz. Takımdan ayrıldığınız zaman rozetiniz gitmez. Rozetlerin ileride gidip gitmeyeceği ile ilgili kesin bir bilgi bulunmamakta. (Kaynak: [Discord Developers](https://discord.gg/discord-developers))
+
+## Botumu aktif ettim, rozetimi ne zaman alabilirim?
+
+Bota eğik çizgi komutları yüklendikten 24 saat sonra yukarıda yazan aşamaları uygulayarak rozetinizi alabilirsiniz.
+
 ### Küresel Eğik Çizgi Komut Kurulumu
 - Aşağıda bulunan kodu ana dosyanıza aktararak botunuza "Eğik Çizgi" komutlarını destekler rozetini alabilirsiniz.
 ```js
