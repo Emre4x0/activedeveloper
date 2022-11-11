@@ -45,4 +45,4 @@ client.api.applications(client.user.id).commands.post({data: {
 ```
 
 ### Başka Sorunuz Varsa?
-[emre#0001](https://discord.com/users/538846533123309584) veya [Estawky#1337](https://discord.com/users/452835228650831902) hesabına ulaşabilir veya [Skyare](https://discord.gg/javascript) Discord sunucusuna katılıp sorunuzu oradan iletebilirsiniz.
+[emre#0001](https://discord.com/users/538846533123309584) & [Estawky#1337](https://discord.com/users/452835228650831902) hesaplarına ulaşabilir veya [Skyare](https://discord.gg/javascript) Discord sunucusuna katılıp sorunuzu oradan iletebilirsiniz.
