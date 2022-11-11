@@ -42,6 +42,10 @@ client.api.applications(client.user.id).commands.post({data: {
     name: 'ping',
     description: 'ping pong!'
 }})
+
+client.ws.on('INTERACTION_CREATE', async interaction => {
+  // Komutu Yanıtlayın
+})
 ```
 
 ### Başka Sorunuz Varsa?
