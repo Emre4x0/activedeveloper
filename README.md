@@ -44,8 +44,16 @@ client.api.applications(client.user.id).commands.post({data: {
 }})
 
 client.ws.on('INTERACTION_CREATE', async interaction => {
-  // Komutu Yanıtlayın
+
+// Komutu Yanıtlar
+client.api.interactions(interaction.id, interaction.token).callback.post({data: {
+type: 4,
+data: {
+content: 'pong!'
+}
+}})
 })
+
 ```
 
 ### Başka Sorunuz Varsa?
