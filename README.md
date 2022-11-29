@@ -3,7 +3,7 @@ Discord "Aktif Geliştirici" rozeti hakkında bulabileceğiniz tüm bilgiler.
 
 ## Aktif Geliştirici Rozeti Nedir?
 
-<img src="https://cdn.discordapp.com/attachments/903320769906495499/1040593318280704101/image.png">
+<img src="https://cdn.discordapp.com/attachments/1027931648437796886/1047128669979680799/image.png">
 
 Bu, Aktif Geliştirici Rozetidir ve en az 1 aktif bir uygulamaya sahip olan herhangi bir geliştirici tarafından kullanılabilir. Uygulamanızın etkin olarak kabul edilebilmesi için son 30 gün içinde herhangi bir Evrensel Eğik Çizgi Komutunu çalıştırmış olması gerekir.
 
