@@ -5,7 +5,7 @@ Discord "Aktif Geliştirici" rozeti hakkında bulabileceğiniz tüm bilgiler.
 
 <img src="https://cdn.discordapp.com/attachments/1027931648437796886/1047128669979680799/image.png">
 
-Bu, Aktif Geliştirici Rozetidir ve en az 1 aktif bir uygulamaya sahip olan herhangi bir geliştirici tarafından kullanılabilir. Uygulamanızın etkin olarak kabul edilebilmesi için son 30 gün içinde herhangi bir Evrensel Eğik Çizgi Komutunu çalıştırmış olması gerekir.
+Bu, Aktif Geliştirici rozetidir ve en az 1 aktif bir uygulamaya sahip olan herhangi bir geliştirici tarafından kullanılabilir. Uygulamanızın etkin olarak kabul edilebilmesi için son 30 gün içinde herhangi bir Evrensel Eğik Çizgi Komutunu çalıştırmış olması gerekir.
 
 ## Rozeti Nereden Alabilirim?
 
@@ -25,8 +25,8 @@ Bu adımlar tamamlandığında, Profilinizde yeni Aktif Geliştirici Rozetinizi 
 
 Göremiyorsanız, istemcinizi yeniden başlatmayı/yenilemeyi deneyin.
 
-## Bir Takıma katılarak rozeti alabilir miyim?
-Şartları karşılayan bir takıma katılarak rozeti alabilirsiniz. Takımdan ayrıldığınız zaman rozetiniz gitmez. Rozetlerin ileride gidip gitmeyeceği ile ilgili kesin bir bilgi bulunmamakta. (Kaynak: [Discord Developers](https://discord.gg/discord-developers))
+## Bir takıma katılarak rozeti alabilir miyim?
+Şartları karşılayan bir takıma katılarak rozeti alabilirsiniz. Fakat kullanıcı takımdan atılır ise rozeti gider.
 
 ## Botumu aktif ettim, rozetimi ne zaman alabilirim?
 
