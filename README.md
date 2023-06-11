@@ -38,22 +38,24 @@ Bota eğik çizgi komutları yüklendikten 24 saat sonra yukarıda yazan aşamal
 - Aşağıda bulunan kodu ana dosyanıza (index.js) aktararak botunuza "Eğik Çizgi" komutlarını destekler rozetini alabilirsiniz.
 
 ```js
-client.api.applications(client.user.id).commands.post({data: {
-    name: 'ping',
-    description: 'ping pong!'
-}})
+client.api.applications(client.user.id).commands.post({
+  data: {
+    name: "ping",
+    description: "ping pong!",
+  },
+});
 
-client.ws.on('INTERACTION_CREATE', async interaction => {
-
-// Komutu Yanıtlar
-client.api.interactions(interaction.id, interaction.token).callback.post({data: {
-type: 4,
-data: {
-content: 'pong!'
-}
-}})
-})
-
+client.ws.on("INTERACTION_CREATE", async (interaction) => {
+  // Komutu Yanıtlar
+  client.api.interactions(interaction.id, interaction.token).callback.post({
+    data: {
+      type: 4,
+      data: {
+        content: "pong!",
+      },
+    },
+  });
+});
 ```
 
 ### Başka Sorunuz Varsa?
