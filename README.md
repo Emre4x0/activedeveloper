@@ -57,4 +57,4 @@ content: 'pong!'
 ```
 
 ### Başka Sorunuz Varsa?
-[emre#0001](https://discord.com/users/538846533123309584) & [Estawky#1337](https://discord.com/users/452835228650831902) hesaplarına ulaşabilir veya [Skyare](https://discord.gg/javascript) Discord sunucusuna katılıp sorunuzu oradan iletebilirsiniz.
+[emre4x0](https://discord.com/users/538846533123309584) & [estawky](https://discord.com/users/452835228650831902) hesaplarına ulaşabilir veya [Skyare](https://discord.gg/javascript) Discord sunucusuna katılıp sorunuzu oradan iletebilirsiniz.
