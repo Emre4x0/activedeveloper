@@ -3,7 +3,7 @@ Discord "Aktif Geliştirici" rozeti hakkında bulabileceğiniz tüm bilgiler.
 
 ## Aktif Geliştirici Rozeti Nedir?
 
-<img src="https://cdn.discordapp.com/attachments/1027931648437796886/1047128669979680799/image.png">
+![image](https://github.com/Emre4x0/activedeveloper/assets/63150613/ae0e39b5-bc55-493c-8cb7-4459b3273756)
 
 Bu, Aktif Geliştirici rozetidir ve en az 1 aktif bir uygulamaya sahip olan herhangi bir geliştirici tarafından kullanılabilir. Uygulamanızın etkin olarak kabul edilebilmesi için son 30 gün içinde herhangi bir Evrensel Eğik Çizgi Komutunu çalıştırmış olması gerekir.
 
@@ -33,7 +33,7 @@ Göremiyorsanız, istemcinizi yeniden başlatmayı/yenilemeyi deneyin.
 Bota eğik çizgi komutları yüklendikten 24 saat sonra yukarıda yazan aşamaları uygulayarak rozetinizi alabilirsiniz.
 
 ### Küresel Eğik Çizgi Komut Kurulumu
-<img src=https://cdn.discordapp.com/attachments/903320769906495499/1040597629115043913/Ekran_Resmi_2022-11-11_15.03.19.png>
+![image](https://github.com/Emre4x0/activedeveloper/assets/63150613/d530033a-61eb-4c20-a638-7dcdd11adfe5)
 
 - Aşağıda bulunan kodu ana dosyanıza (index.js) aktararak botunuza "Eğik Çizgi" komutlarını destekler rozetini alabilirsiniz.
 
